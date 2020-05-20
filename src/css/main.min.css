@@ -13,12 +13,12 @@ body {
     margin: 0;
     background: -webkit-gradient(linear, right bottom, left top, color-stop(50%, #AF1E2D), color-stop(50%, #FFCE00));
     background: linear-gradient(to top left, #AF1E2D 50%, #FFCE00 50%);
-    font-family: "Exo 2", "Helvetica", sans-serif
+    font-family: "Helvetica", sans-serif
 }
 
 body h1 {
     margin: 0;
-    font-size: 72px
+    font-size: 100px
 }
 
 body h1.bottom {
